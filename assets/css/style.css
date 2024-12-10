@@ -1,0 +1,21 @@
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #1B1B1B;
+    background: linear-gradient(120deg, black, #2C9BEA); /* Replace these colors with your desired gradient */
+  }
+  
+body {
+    background-image: url('/assets/images/background.jpg');
+    background-attachment: fixed;
+    background-size: cover; /* Covers the entire viewport */
+    background-position: center;
+    background-color: #1B1B1B;
+}
+
+.site-logo {
+    max-width: 100px; /* Adjust the size of the logo */
+    height: auto;
+    margin-right: 10px; /* Add spacing between the logo and title */
+    vertical-align: middle; /* Align the logo with the text */
+}
